@@ -1,7 +1,6 @@
-# myoTrainer: Fine-Tuning Cellpose-SAM for Disease-Aware Segmentation of Human
-# Skeletal Muscle Cells
+# myoTrainer: Fine-Tuning Cellpose-SAM for Disease-Aware Segmentation of Human Skeletal Muscle Cells
 
-## Model Summary
+## Training
 
 Cellpose-SAM model was fine-tuned using the command
 provided by the Cellpose developers. The model was trained using Cellpose
