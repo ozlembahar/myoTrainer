@@ -13,7 +13,8 @@ model_path = train.train_seg(model.net,
                             train_data=images, train_labels=labels,
                             test_data=test_images, test_labels=test_labels,
                             weight_decay=0.1, learning_rate=1e-5,
-                            n_epochs=100, model_name="new_model")``` 
+                            n_epochs=100, model_name="new_model")
+``` 
 
 ## Training and Test Data
 
